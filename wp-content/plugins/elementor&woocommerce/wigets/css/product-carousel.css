@@ -1,0 +1,42 @@
+.carousel .elementor-shop-product-content {
+    margin-right: 20px;
+}
+.carousel button.arrow-next.slick-arrow {
+    position: absolute;
+    right: -17px;
+    top: 50%;
+    background: none;
+    border: none;
+    font-size: 30px;
+    margin-top: -69px;
+}
+
+.carousel button.arrow-prev.slick-arrow {
+    position: absolute;
+    left: -37px;
+    top: 50%;
+    background: none;
+    border: none;
+    font-size: 30px;
+    margin-top: -69px;
+}
+.carousel ul.products.slick-slider {
+    margin-right: -20px;
+   
+}
+.carousel ul.slick-dots {
+    position: absolute;
+    top: -50px;
+    height: 25px;
+}
+
+.carousel ul.slick-dots li {
+    width: 7px;
+    height: 7px;
+    background: #b2b2b2;
+    border-radius: 50%;
+}
+
+.carousel ul.slick-dots li.slick-active {
+    background: #333;
+}

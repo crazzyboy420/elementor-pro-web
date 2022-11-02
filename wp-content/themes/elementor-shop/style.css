@@ -1,0 +1,153 @@
+/*!
+Theme Name: Elementor
+Theme URI: http://underscores.me/
+Author: Rasel Ahmed
+Author URI: http://rasel-ahmed.unaux.com/
+Description: Elementor & Woocommerce Theme
+Version: 1.0.0
+Tested up to: 5.4
+Requires PHP: 5.6
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: elementor-shop
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned.
+
+Elementor is based on Underscores https://underscores.me/, (C) 2012-2020 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+html {
+	line-height: 1.15;
+	-webkit-text-size-adjust: 100%;
+}
+ /*============
+ Header CSS
+ ==============*/
+ .top-header-area ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.top-header-area ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+.top-header-area {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 11px;
+}
+
+.main-header-area .Custom-logo h2 a {
+    text-decoration: none;
+    color: #333;
+    font-size: 40px;
+}
+
+.main-header-area ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.main-header-area ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    text-transform: uppercase;
+    color: #333;
+    padding: 15px;
+    display: block;
+}
+
+.main-header-area li {
+    display: inline-block;
+}
+.mainmenu {
+    text-align: center;
+}
+
+.header-right-area {
+    color: #333;
+}
+
+.header-right-area a {
+    color: #333;
+}
+
+.header-right-area span i {
+    padding: 17px;
+}
+
+.header-right-area span,.header-right-area a {
+    padding: 16px 0;
+    padding-left: 10px;
+    display: inline-block;
+}
+
+.main-header-area {
+    margin-top: 5px;
+}
+/*============
+Footer CSS
+=============*/
+.footer-left-menu h2 {
+	display: inline-block;
+	color: #333;
+	font-size: 27px;
+}
+
+.footer-left-menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.footer-left-menu ul li {
+    display: inline-block;
+}
+.menu-footer-left-menu-container {
+    display: inline-block;
+}
+
+.footer-left-menu ul li a {
+    text-decoration: none;
+    color: #333;
+    font-size: 18px;
+    display: block;
+    margin-left: 12px;
+}
+
+.footer-right-menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+
+.footer-right-menu ul li {
+    display: inline-block;
+}
+
+.footer-right-menu ul li a {
+    text-decoration: none;
+    font-size: 18px;
+    color: #333;
+    display: block;
+    padding-left: 12px;
+}
+.footer-center {
+    text-align: center;
+}
+
+.footer-center .footer-button {
+    background: #333;
+    color: #fff;
+    padding: 12px 16px;
+}
+

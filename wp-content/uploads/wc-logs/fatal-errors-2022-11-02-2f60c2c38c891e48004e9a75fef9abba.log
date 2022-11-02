@@ -1,0 +1,4 @@
+2022-11-02T14:46:24+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\wamp64\www\woocommerce\wp-includes\Requests\Transport\cURL.php on line 483
+
+2022-11-02T15:08:36+00:00 CRITICAL Maximum execution time of 300 seconds exceeded in C:\wamp64\www\woocommerce\wp-includes\Requests\Transport\cURL.php on line 483
+

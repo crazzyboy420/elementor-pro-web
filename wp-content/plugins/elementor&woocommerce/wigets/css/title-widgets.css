@@ -1,0 +1,18 @@
+.title-widgets {
+    text-align: center;
+}
+
+.title-widgets h3 {
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.title-widgets p {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.title-widgets {
+    margin-bottom: 50px;
+}
